@@ -1,1 +1,1 @@
-# MLOps Major Assignment 
+# MLOps Major Assignment
