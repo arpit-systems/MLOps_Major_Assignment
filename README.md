@@ -1,6 +1,6 @@
 # 🚀 End-to-End MLOps Pipeline using GitHub Actions, Docker & Kubernetes
 
-This project demonstrates a complete end-to-end MLOps pipeline covering machine learning model development, automated CI/CD, containerization, Docker image management, and Kubernetes deployment with high availability and self-healing capabilities. The implementation showcases production-style MLOps practices using modern DevOps and Machine Learning tools. :contentReference[oaicite:0]{index=0}
+This project demonstrates a complete end-to-end MLOps pipeline covering machine learning model development, automated CI/CD, containerization, Docker image management, and Kubernetes deployment with high availability and self-healing capabilities. The implementation showcases production-style MLOps practices using modern DevOps and Machine Learning tools.
 
 ---
 
